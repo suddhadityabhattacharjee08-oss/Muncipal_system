@@ -1,6 +1,6 @@
 # Public Service Management System
 
-A simple Python and MySQL based Public Service Management System for a college computer project.
+A  Python and MySQL based Public Service Management System for  project.
 
 ## Modules
 - Municipal System
